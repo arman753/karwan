@@ -9,15 +9,21 @@ Karwan is a full-stack eCommerce plateform featuring product listings, shoping c
 ## 📷 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+<img width="1900" height="910" alt="Screenshot 2025-10-02 095554" src="https://github.com/user-attachments/assets/d9a22702-8c8a-4045-a64a-a1f216c2eb50" />
+
 
 ### 🛍 Products Page
-![Products](screenshots/products.png)
+<img width="1902" height="858" alt="Screenshot 2025-10-02 095707" src="https://github.com/user-attachments/assets/1bec58b8-d4c6-4dc5-b68f-7fe5a79fd8a1" />
+
 
 ### 🛒 Cart
-![Cart](screenshots/cart.png)
+<img width="1920" height="906" alt="Screenshot 2025-10-02 095906" src="https://github.com/user-attachments/assets/6ccb7257-c3ee-4fa8-93bd-36dec446efcc" />
+
 
 ### ⚙ Admin Panel
-![Admin Panel](screenshots/admin.png)
+<img width="1918" height="906" alt="Screenshot 2025-10-02 100106" src="https://github.com/user-attachments/assets/eaf3fb9c-5e9c-44a2-9fe4-737b74386c79" />
+
 
 ### ⚙ User Panel
+<img width="1919" height="908" alt="Screenshot 2025-10-02 095944" src="https://github.com/user-attachments/assets/56711295-4970-425b-a5b0-467b6423c3f7" />
+
