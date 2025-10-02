@@ -1,0 +1,24 @@
+.navbar{
+    background-color:#1ed2d8;
+    
+}
+.navbar .nav-link{
+    color: white;
+    margin-left: 30px;
+   
+}
+a{
+    text-decoration: none;
+    color:#1ed2d8;
+    font-weight: 600;
+}
+.nav .nav-link{
+    color:#1ed2d8;
+}
+.btn:hover{
+    background-color: #1ed2d8;
+    color: white;
+}
+.product .card .card-header img{
+    height: 300px;
+}
